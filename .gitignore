@@ -1,0 +1,8 @@
+# 拡張子無しファイルをgit commitしない
+*
+!*/
+!*.*
+# Makefileは反映する
+!Makefile
+
+*.DS_Store
